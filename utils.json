@@ -1,0 +1,29 @@
+{
+    "name": "rest-channeling-helpers",
+    "deps": {
+        "rest-channels_builder": {
+            "owner": "aramtech", 
+            "repo": "rest-channels_builder", 
+            "update_policy": "major", 
+            "version": "0.4.0"
+        },
+        "rest-dynamic_json": {
+            "owner": "aramtech", 
+            "repo": "rest-dynamic_json", 
+            "update_policy": "major", 
+            "version": "0.2.0"
+        },
+        "rest-log": {
+            "owner": "aramtech", 
+            "repo": "rest-log", 
+            "update_policy": "major", 
+            "version": "0.1.0"
+        }
+    },
+    "public_repo": false,
+    "private": false,
+    "owner": "aramtech", 
+    "hash": "fka4UNzyVywJ9h0BV3BHmObgq_HsB2LYYceBt4UL5WM",
+    "version": "0.3.0",
+    "description": "State Manager and middleware to track the user presence and validate his authentication and scoping headers"
+}
